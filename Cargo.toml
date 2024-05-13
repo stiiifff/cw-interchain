@@ -5,7 +5,8 @@ members = [ "contracts/ibc-transfer","packages/*"]
 resolver = "2"
 
 [workspace.package]
-version = "2.0.0"
+authors = ["Steve Degosserie <723552+stiiifff@users.noreply.github.com>"]
+version = "0.0.1"
 
 [workspace.dependencies]
 cosmwasm-schema = "1.5"

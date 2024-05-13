@@ -226,7 +226,7 @@ dependencies = [
 
 [[package]]
 name = "cw-ibc-transfer"
-version = "2.0.0"
+version = "0.0.1"
 dependencies = [
  "cosmwasm-std",
  "cw-storage-plus",
@@ -463,7 +463,7 @@ dependencies = [
 
 [[package]]
 name = "ibc-transfer"
-version = "2.0.0"
+version = "0.0.1"
 dependencies = [
  "cosmwasm-std",
  "cw-ibc-transfer",
